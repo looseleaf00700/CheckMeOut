@@ -1,2 +1,2 @@
 # CheckMeOut
-This gives the basic description of why this id was made and its relation to Looseleaf-Org.
+So yeah rather than keeping bits of code in your own repositories here and there, accumulate codes here and use the features pull requests and merge for changing or adding new codes under the directory directly for the company.
